@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vinit
 
 > a init project of vue
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# chl
+>>>>>>> 8d1757485c674c23389d9147b4e2d4674a9c18c7
